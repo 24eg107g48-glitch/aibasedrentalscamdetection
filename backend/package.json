@@ -1,0 +1,13 @@
+{
+  "name": "ai-rental-scam-detection-backend",
+  "version": "1.0.0",
+  "description": "AI-Based Rental Scam Detection REST API Server in Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "ai-based-rental-scam-detection",
+  "version": "1.0.0",
+  "description": "AI-Based Rental Scam Detection System - Complete Frontend & Backend (Node.js)",
+  "scripts": {
+    "start": "node backend/server.js",
+    "test": "node -e \"console.log('Environment ready')\""
+  },
+  "keywords": [
+    "ai",
+    "scam-detection",
+    "nlp",
+    "rental-fraud",
+    "express",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "ISC"
+}
